@@ -1,0 +1,16 @@
+DOS
+
+cd .. (voltar)
+
+dir (listar diretorio)
+
+mkdir (criar diretorio)
+
+rmdir (deletar)
+
+
+
+
+GIT
+ blob = bloco basico
+tree armazena blob mantem a estrutura e nome do arquivo    (ambos contem meta dados)
